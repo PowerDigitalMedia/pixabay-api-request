@@ -15,7 +15,4 @@
 - runs and api request using the node module ( request )
 - recently this module has been deprecated - now using node-fetch
 
-<br/># pixabay-api-request
-# pixabay-api-request
-# pixabay-api-request
-# pixabay-api-request
+
