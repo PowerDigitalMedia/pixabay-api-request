@@ -16,3 +16,4 @@
 - recently this module has been deprecated - now using node-fetch
 
 <br/># pixabay-api-request
+# pixabay-api-request
