@@ -2,7 +2,7 @@
 # Pixabay API Request
 
 
-Please see an example of this code within <a href="http://powerdigitalmedia.net/xamples/imagesearch">"Image Search"</a>
+Please <a href="http://powerdigitalmedia.net/xamples/imagesearch">View Example</a>
 
 
 
